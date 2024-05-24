@@ -1,0 +1,34 @@
+/* src/App.css */
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.recipe {
+  border: 1px solid #ddd;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
+}
+
+.recipe h2 {
+  color: #333;
+}
+
+.recipe ul {
+  text-align: left;
+}
+
+.recipe ul li {
+  list-style: none;
+  background: #f9f9f9;
+  margin: 5px 0;
+  padding: 5px;
+  border-radius: 4px;
+}
